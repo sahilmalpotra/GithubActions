@@ -11,5 +11,7 @@ jobs:
       - run: ls
       - run: echo new command 
       - run: echo gittttttt
+      - run: pwd
+
        
 
