@@ -10,3 +10,5 @@ jobs:
           python-version: '3.10' 
       - run: python my_script.py
       - run: ls
+      - run: echo new command 
+
