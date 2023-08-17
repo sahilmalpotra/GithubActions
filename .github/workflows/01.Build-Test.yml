@@ -12,8 +12,11 @@ jobs:
       - run: echo new command 
       - run: echo gittttttt
       - run: pwd
-      - run: echo new version
-      
+      - run: 
+          echo new version
+          cd
+
+
 
        
 
