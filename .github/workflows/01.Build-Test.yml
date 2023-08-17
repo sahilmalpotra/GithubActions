@@ -10,5 +10,6 @@ jobs:
           python-version: '3.10' 
       - run: ls
       - run: echo new command 
+      - run: echo gittttttt
        
 
